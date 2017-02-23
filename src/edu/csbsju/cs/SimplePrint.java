@@ -1,19 +1,4 @@
-/**
- * 
- */
-package edu.csbsju.cs;
 
-/**
- * @author k1moua
- *
- */
-public class SimplePrint {
-	private String pName;
-	private int pAge;
-	/**
-	 * @param pName
-	 * @param pAge
-	 */
 	public SimplePrint(String pName, int pAge) {
 		super();
 		this.pName = pName;
